@@ -3,7 +3,6 @@ title: 不要一大早刷微博
 categories: ReadingNotes 
 tags:
   - 方法学
-  - 励志
 ---
 
 ![title](yidazaoshuaweibo/title.jpg)
